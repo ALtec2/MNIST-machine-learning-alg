@@ -5,8 +5,5 @@ public class machineLearning{
 
 	}
 
-	public static double neuron(int image, byte[][][] images){
-		images[image].getSize();
-		return 0.0;
-	}
+	
 }
